@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getSpeciesById, getRelatedSpecies } from "@/lib/data";
+import { getSpeciesById, getRelatedSpecies, getAllSpecies } from "@/lib/data";
 import { getRecipesBySpeciesId } from "@/lib/recipes";
 import StatusBadge from "@/components/StatusBadge";
 import SpeciesCard from "@/components/SpeciesCard";
