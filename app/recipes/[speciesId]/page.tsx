@@ -2,14 +2,20 @@
 
 import { use } from "react";
 import { motion } from "framer-motion";
-import { getSpeciesById } from "@/lib/data";
-import { getRecipesBySpeciesId } from "@/lib/recipes";
+import { getSpeciesById, getAllSpecies } from "@/lib/data";
+import { getRecipesBySpeciesId, getNonEndangeredSpecies } from "@/lib/recipes";
 import { ArrowLeft, Clock, ChefHat, Globe, BookOpen, Users } from "lucide-react";
 import Link from "next/link";
 import StatusBadge from "@/components/StatusBadge";
 
 interface RecipeDetailPageProps {
   params: Promise<{ speciesId: string }>;
+}
+export function generateStaticParams() {
+  const species = getNonEndangeredSpecies();
+  return species.map((s) => ({
+    speciesId: s.id,
+  }));
 }
 
 export default function RecipeDetailPage({ params }: RecipeDetailPageProps) {
