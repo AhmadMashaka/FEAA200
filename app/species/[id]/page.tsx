@@ -8,6 +8,12 @@ import { ArrowLeft, TrendingDown, TrendingUp, Minus, Globe, Shield, ExternalLink
 
 interface PageProps {
   params: Promise<{ id: string }>;
+  export async function generateStaticParams() {
+  const species = getAllSpecies();
+  return species.map((s) => ({
+    id: s.id,
+  }));
+}
 }
 
 export default async function SpeciesDetailPage({ params }: PageProps) {
