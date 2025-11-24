@@ -1,0 +1,1003 @@
+{
+  "recipes": [
+    {
+      "id": "r1",
+      "speciesId": "3",
+      "speciesName": "Pacific Salmon",
+      "country": "USA",
+      "cuisine": "American",
+      "title": "Cajun Blackened Pacific Salmon",
+      "ingredients": [
+        "4 salmon fillets (6 oz each)",
+        "2 tbsp Cajun seasoning",
+        "1 tbsp paprika",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "1/2 tsp cayenne pepper",
+        "2 tbsp butter",
+        "Lemon wedges for serving",
+        "Fresh parsley for garnish"
+      ],
+      "steps": [
+        "Mix Cajun seasoning, paprika, garlic powder, onion powder, and cayenne in a bowl.",
+        "Pat salmon fillets dry and coat both sides with the spice mixture.",
+        "Heat a cast-iron skillet over high heat until very hot.",
+        "Add butter and let it melt, then add salmon fillets skin-side up.",
+        "Cook for 3-4 minutes until blackened, then flip and cook 3-4 minutes more.",
+        "Serve immediately with lemon wedges and fresh parsley."
+      ],
+      "time": "20 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Cajun cuisine originates from Louisiana, combining French, Spanish, and African influences. Blackening is a cooking technique that creates a flavorful crust.",
+      "servingSuggestions": "Serve with rice pilaf, steamed vegetables, or a fresh green salad. Pairs well with a crisp white wine."
+    },
+    {
+      "id": "r2",
+      "speciesId": "3",
+      "speciesName": "Pacific Salmon",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "title": "Teriyaki Pacific Salmon",
+      "ingredients": [
+        "4 salmon fillets",
+        "1/2 cup soy sauce",
+        "1/4 cup mirin",
+        "2 tbsp sake",
+        "2 tbsp brown sugar",
+        "1 tsp grated ginger",
+        "1 clove garlic, minced",
+        "2 green onions, sliced",
+        "Sesame seeds for garnish"
+      ],
+      "steps": [
+        "Mix soy sauce, mirin, sake, brown sugar, ginger, and garlic in a bowl to make teriyaki sauce.",
+        "Marinate salmon fillets in half the sauce for 30 minutes.",
+        "Heat a pan over medium heat and cook salmon skin-side down for 4-5 minutes.",
+        "Flip and cook for 3-4 minutes, then add remaining teriyaki sauce.",
+        "Simmer until sauce thickens and glazes the salmon.",
+        "Garnish with green onions and sesame seeds."
+      ],
+      "time": "45 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Teriyaki is a Japanese cooking technique where foods are grilled or broiled with a glaze of soy sauce, mirin, and sugar. It's one of Japan's most popular cooking methods.",
+      "servingSuggestions": "Serve with steamed rice, miso soup, and pickled vegetables. Perfect for a traditional Japanese meal."
+    },
+    {
+      "id": "r3",
+      "speciesId": "7",
+      "speciesName": "Mackerel",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "title": "Spanish Grilled Mackerel with Garlic and Paprika",
+      "ingredients": [
+        "4 whole mackerel, cleaned",
+        "4 cloves garlic, minced",
+        "2 tsp smoked paprika",
+        "1/2 cup olive oil",
+        "2 tbsp lemon juice",
+        "Fresh parsley, chopped",
+        "Sea salt and black pepper",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Score the mackerel on both sides with diagonal cuts.",
+        "Mix garlic, paprika, olive oil, lemon juice, salt, and pepper in a bowl.",
+        "Rub the mixture inside and outside the fish.",
+        "Preheat grill to medium-high heat.",
+        "Grill mackerel for 5-6 minutes per side until skin is crispy.",
+        "Garnish with parsley and serve with lemon wedges."
+      ],
+      "time": "25 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Grilled fish is a staple of Spanish coastal cuisine, especially in regions like Galicia and Andalusia. The combination of garlic and paprika is quintessentially Spanish.",
+      "servingSuggestions": "Serve with roasted potatoes, grilled vegetables, or a simple green salad. Pair with a crisp Spanish white wine."
+    },
+    {
+      "id": "r4",
+      "speciesId": "8",
+      "speciesName": "Swordfish",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "title": "Italian Grilled Swordfish with Lemon and Herbs",
+      "ingredients": [
+        "4 swordfish steaks (6 oz each)",
+        "1/4 cup olive oil",
+        "3 cloves garlic, minced",
+        "2 tbsp fresh oregano, chopped",
+        "2 tbsp fresh basil, chopped",
+        "Zest and juice of 2 lemons",
+        "Sea salt and black pepper",
+        "Lemon slices for serving"
+      ],
+      "steps": [
+        "Mix olive oil, garlic, oregano, basil, lemon zest, and juice in a bowl.",
+        "Season swordfish steaks with salt and pepper, then coat with the herb mixture.",
+        "Let marinate for 20 minutes.",
+        "Preheat grill to medium-high heat.",
+        "Grill swordfish for 4-5 minutes per side until opaque and slightly charred.",
+        "Serve with lemon slices and drizzle with remaining marinade."
+      ],
+      "time": "35 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Swordfish is a favorite in Italian coastal regions, especially Sicily. The simple preparation with fresh herbs and lemon highlights the fish's natural flavor.",
+      "servingSuggestions": "Serve with risotto, grilled vegetables, or a caprese salad. Pair with a light Italian white wine like Pinot Grigio."
+    },
+    {
+      "id": "r5",
+      "speciesId": "9",
+      "speciesName": "Atlantic Herring",
+      "country": "Norway",
+      "cuisine": "Norwegian",
+      "title": "Norwegian Pickled Herring",
+      "ingredients": [
+        "8 herring fillets",
+        "1 cup white vinegar",
+        "1/2 cup sugar",
+        "1/2 cup water",
+        "1 onion, thinly sliced",
+        "10 whole peppercorns",
+        "2 bay leaves",
+        "Fresh dill sprigs"
+      ],
+      "steps": [
+        "Clean and fillet the herring, removing bones.",
+        "Bring vinegar, sugar, water, peppercorns, and bay leaves to a boil.",
+        "Let the pickling liquid cool completely.",
+        "Layer herring fillets and onion slices in a glass jar.",
+        "Pour cooled pickling liquid over the herring.",
+        "Add dill sprigs and refrigerate for at least 24 hours before serving."
+      ],
+      "time": "30 minutes (plus 24 hours marinating)",
+      "difficulty": "Medium",
+      "culturalBackground": "Pickled herring is a traditional Norwegian dish, often served during holidays and celebrations. It's a preservation method that dates back centuries.",
+      "servingSuggestions": "Serve on dark rye bread with sour cream, hard-boiled eggs, and pickled beets. Traditional Norwegian breakfast or appetizer."
+    },
+    {
+      "id": "r6",
+      "speciesId": "12",
+      "speciesName": "Skipjack Tuna",
+      "country": "Philippines",
+      "cuisine": "Filipino",
+      "title": "Sinigang na Isda (Filipino Sour Fish Soup)",
+      "ingredients": [
+        "2 lbs skipjack tuna, cut into steaks",
+        "1 packet sinigang mix (tamarind soup base)",
+        "1 large tomato, quartered",
+        "1 onion, sliced",
+        "2 cups water spinach (kangkong)",
+        "1 cup string beans, cut into 2-inch pieces",
+        "1 radish, sliced",
+        "2 green chilies",
+        "Fish sauce to taste",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Bring water to a boil in a large pot.",
+        "Add tomato and onion, simmer for 5 minutes.",
+        "Add sinigang mix and stir until dissolved.",
+        "Add radish and cook for 3 minutes.",
+        "Add fish steaks and cook for 5-7 minutes.",
+        "Add string beans and chilies, cook for 2 minutes.",
+        "Add water spinach and cook for 1 minute.",
+        "Season with fish sauce, salt, and pepper. Serve hot."
+      ],
+      "time": "30 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Sinigang is one of the most popular dishes in the Philippines, known for its sour and savory flavor. The tamarind-based soup is a comfort food for many Filipinos.",
+      "servingSuggestions": "Serve with steamed rice. The sour soup is perfect for any meal and pairs well with fried fish or grilled dishes."
+    },
+    {
+      "id": "r7",
+      "speciesId": "12",
+      "speciesName": "Skipjack Tuna",
+      "country": "Philippines",
+      "cuisine": "Filipino",
+      "title": "Inihaw na Isda (Grilled Fish in Banana Leaves)",
+      "ingredients": [
+        "2 lbs skipjack tuna, whole or filleted",
+        "4 banana leaves, softened over flame",
+        "2 tbsp calamansi juice (or lemon)",
+        "2 tbsp soy sauce",
+        "4 cloves garlic, minced",
+        "1 thumb-sized ginger, grated",
+        "Salt and pepper",
+        "Lemongrass stalks (optional)"
+      ],
+      "steps": [
+        "Mix calamansi juice, soy sauce, garlic, ginger, salt, and pepper to make marinade.",
+        "Marinate fish for 30 minutes.",
+        "Place fish on banana leaves, add lemongrass if using.",
+        "Wrap tightly in banana leaves and secure with string.",
+        "Grill over medium heat for 15-20 minutes, turning occasionally.",
+        "Serve in the banana leaf wrapper."
+      ],
+      "time": "50 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Inihaw (grilled) is a popular Filipino cooking method. Wrapping fish in banana leaves keeps it moist and adds a subtle, earthy flavor.",
+      "servingSuggestions": "Serve with steamed rice, atchara (pickled papaya), and a dipping sauce of soy sauce, calamansi, and chili."
+    },
+    {
+      "id": "r8",
+      "speciesId": "16",
+      "speciesName": "Mahi-Mahi",
+      "country": "Mexico",
+      "cuisine": "Mexican",
+      "title": "Baja-Style Mahi-Mahi Tacos",
+      "ingredients": [
+        "1.5 lbs mahi-mahi, cut into strips",
+        "1 cup flour",
+        "1 cup beer",
+        "1 tsp baking powder",
+        "Salt and pepper",
+        "Oil for frying",
+        "Corn tortillas",
+        "Shredded cabbage",
+        "Pico de gallo",
+        "Lime wedges",
+        "Cilantro",
+        "Chipotle mayo"
+      ],
+      "steps": [
+        "Mix flour, beer, baking powder, salt, and pepper to make batter.",
+        "Heat oil to 350°F in a deep pan.",
+        "Dip fish strips in batter and fry until golden brown (3-4 minutes).",
+        "Drain on paper towels.",
+        "Warm tortillas and fill with fish, cabbage, pico de gallo.",
+        "Top with chipotle mayo, cilantro, and lime juice."
+      ],
+      "time": "30 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Baja-style fish tacos originated in Baja California, Mexico. The beer-battered fish and fresh toppings create a perfect balance of textures and flavors.",
+      "servingSuggestions": "Serve immediately while hot. Perfect for a casual meal with Mexican rice and beans."
+    },
+    {
+      "id": "r9",
+      "speciesId": "16",
+      "speciesName": "Mahi-Mahi",
+      "country": "Mexico",
+      "cuisine": "Mexican",
+      "title": "Veracruz-Style Baked Mahi-Mahi",
+      "ingredients": [
+        "4 mahi-mahi fillets",
+        "2 tbsp olive oil",
+        "1 onion, sliced",
+        "4 cloves garlic, minced",
+        "2 cups diced tomatoes",
+        "1/2 cup green olives, pitted",
+        "2 tbsp capers",
+        "2 jalapeños, sliced",
+        "1/2 cup white wine",
+        "Fresh oregano",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 375°F.",
+        "Heat olive oil in a large oven-safe pan.",
+        "Sauté onion and garlic until soft.",
+        "Add tomatoes, olives, capers, and jalapeños. Cook for 5 minutes.",
+        "Add white wine and bring to a simmer.",
+        "Place fish fillets on top of the sauce.",
+        "Bake for 15-20 minutes until fish is flaky.",
+        "Garnish with fresh oregano."
+      ],
+      "time": "40 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Pescado a la Veracruzana is a classic Mexican dish from Veracruz, combining Spanish and indigenous flavors. The tomato-based sauce with olives and capers is distinctive.",
+      "servingSuggestions": "Serve with white rice, black beans, and warm tortillas. A refreshing Mexican beer pairs perfectly."
+    },
+    {
+      "id": "r10",
+      "speciesId": "3",
+      "speciesName": "Pacific Salmon",
+      "country": "Canada",
+      "cuisine": "Canadian",
+      "title": "Maple-Glazed Pacific Salmon",
+      "ingredients": [
+        "4 salmon fillets",
+        "1/4 cup maple syrup",
+        "2 tbsp Dijon mustard",
+        "1 tbsp soy sauce",
+        "1 clove garlic, minced",
+        "1 tsp fresh thyme",
+        "Salt and pepper",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Mix maple syrup, mustard, soy sauce, garlic, and thyme in a bowl.",
+        "Season salmon with salt and pepper.",
+        "Brush fillets with half the glaze.",
+        "Bake at 400°F for 12-15 minutes.",
+        "Brush with remaining glaze and broil for 2 minutes.",
+        "Serve with lemon wedges."
+      ],
+      "time": "25 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Maple syrup is a quintessential Canadian ingredient. This recipe combines the sweetness of maple with the richness of salmon, creating a uniquely Canadian flavor profile.",
+      "servingSuggestions": "Serve with roasted vegetables and wild rice. Perfect for a Canadian dinner party."
+    },
+    {
+      "id": "r11",
+      "speciesId": "5",
+      "speciesName": "Yellowfin Tuna",
+      "country": "Thailand",
+      "cuisine": "Thai",
+      "title": "Thai Yellowfin Tuna Curry",
+      "ingredients": [
+        "1.5 lbs yellowfin tuna, cut into chunks",
+        "2 tbsp red curry paste",
+        "1 can coconut milk",
+        "2 tbsp fish sauce",
+        "1 tbsp palm sugar",
+        "2 kaffir lime leaves",
+        "Thai basil leaves",
+        "2 red chilies, sliced",
+        "1 bell pepper, sliced",
+        "Lime juice"
+      ],
+      "steps": [
+        "Heat a wok and fry curry paste until fragrant.",
+        "Add half the coconut milk and stir until oil separates.",
+        "Add remaining coconut milk, fish sauce, and palm sugar.",
+        "Add lime leaves and bring to a simmer.",
+        "Add tuna chunks and bell pepper, cook for 5-7 minutes.",
+        "Stir in basil and chilies.",
+        "Finish with lime juice and serve."
+      ],
+      "time": "25 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Thai curries are known for their balance of sweet, sour, salty, and spicy flavors. This dish showcases the aromatic complexity of Thai cuisine.",
+      "servingSuggestions": "Serve with jasmine rice and a side of pickled vegetables. The curry is best enjoyed hot."
+    },
+    {
+      "id": "r12",
+      "speciesId": "7",
+      "speciesName": "Mackerel",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "title": "Japanese Grilled Mackerel (Saba Shioyaki)",
+      "ingredients": [
+        "4 mackerel fillets",
+        "Coarse sea salt",
+        "Daikon radish, grated",
+        "Soy sauce",
+        "Lemon wedges",
+        "Shiso leaves (optional)"
+      ],
+      "steps": [
+        "Salt mackerel fillets generously and let sit for 30 minutes.",
+        "Rinse off salt and pat dry.",
+        "Score the skin side with diagonal cuts.",
+        "Grill skin-side down over medium heat for 4-5 minutes.",
+        "Flip and grill for 3-4 minutes until crispy.",
+        "Serve with grated daikon, soy sauce, and lemon."
+      ],
+      "time": "40 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Saba shioyaki is a classic Japanese dish, often served for breakfast. The simple salt-grilling method brings out the mackerel's natural oils and flavor.",
+      "servingSuggestions": "Serve with steamed rice, miso soup, and pickled vegetables. Traditional Japanese breakfast or lunch."
+    },
+    {
+      "id": "r13",
+      "speciesId": "8",
+      "speciesName": "Swordfish",
+      "country": "Greece",
+      "cuisine": "Greek",
+      "title": "Greek Grilled Swordfish with Oregano",
+      "ingredients": [
+        "4 swordfish steaks",
+        "1/2 cup olive oil",
+        "3 tbsp fresh oregano",
+        "4 cloves garlic, minced",
+        "Juice of 2 lemons",
+        "Sea salt and black pepper",
+        "Lemon wedges",
+        "Fresh parsley"
+      ],
+      "steps": [
+        "Mix olive oil, oregano, garlic, and lemon juice for marinade.",
+        "Marinate swordfish for 1 hour.",
+        "Preheat grill to medium-high.",
+        "Grill swordfish for 5-6 minutes per side.",
+        "Season with salt and pepper.",
+        "Garnish with parsley and serve with lemon."
+      ],
+      "time": "75 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Greek cuisine emphasizes fresh ingredients and simple preparations. This dish showcases the Mediterranean tradition of grilling fish with herbs and olive oil.",
+      "servingSuggestions": "Serve with Greek salad, roasted potatoes, and tzatziki. Pair with a crisp Greek white wine."
+    },
+    {
+      "id": "r14",
+      "speciesId": "9",
+      "speciesName": "Atlantic Herring",
+      "country": "UK",
+      "cuisine": "British",
+      "title": "British Herring in Oatmeal",
+      "ingredients": [
+        "8 herring fillets",
+        "1 cup medium oatmeal",
+        "Salt and pepper",
+        "2 tbsp butter",
+        "Lemon wedges",
+        "Fresh parsley"
+      ],
+      "steps": [
+        "Season herring fillets with salt and pepper.",
+        "Coat fillets in oatmeal, pressing gently.",
+        "Heat butter in a pan over medium heat.",
+        "Fry herring skin-side down for 4-5 minutes.",
+        "Flip and cook for 3-4 minutes until golden.",
+        "Serve with lemon and parsley."
+      ],
+      "time": "20 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Herring in oatmeal is a traditional Scottish dish. The oatmeal creates a crispy coating that complements the rich flavor of the herring.",
+      "servingSuggestions": "Serve with mashed potatoes and green vegetables. A classic British pub meal."
+    },
+    {
+      "id": "r15",
+      "speciesId": "12",
+      "speciesName": "Skipjack Tuna",
+      "country": "Indonesia",
+      "cuisine": "Indonesian",
+      "title": "Indonesian Tuna Rendang",
+      "ingredients": [
+        "2 lbs skipjack tuna, cut into chunks",
+        "2 cans coconut milk",
+        "2 tbsp rendang spice paste",
+        "4 kaffir lime leaves",
+        "2 lemongrass stalks, bruised",
+        "1 tsp tamarind paste",
+        "Salt and sugar to taste"
+      ],
+      "steps": [
+        "Heat a pan and fry rendang paste until fragrant.",
+        "Add coconut milk and bring to a boil.",
+        "Add lemongrass and lime leaves.",
+        "Add tuna chunks and simmer on low heat for 1 hour.",
+        "Stir occasionally until sauce thickens and oil separates.",
+        "Season with salt, sugar, and tamarind.",
+        "Cook until dry and serve."
+      ],
+      "time": "90 minutes",
+      "difficulty": "Hard",
+      "culturalBackground": "Rendang is a slow-cooked curry from West Sumatra, Indonesia. It's traditionally made with beef, but fish rendang is a coastal variation.",
+      "servingSuggestions": "Serve with steamed rice and sambal. The rich, spicy flavor is best enjoyed with plain rice."
+    },
+    {
+      "id": "r16",
+      "speciesId": "17",
+      "speciesName": "Barramundi",
+      "country": "Australia",
+      "cuisine": "Australian",
+      "title": "Australian Grilled Barramundi with Lemon Myrtle",
+      "ingredients": [
+        "4 barramundi fillets",
+        "2 tbsp lemon myrtle (or lemon zest)",
+        "2 tbsp olive oil",
+        "Salt and pepper",
+        "Lemon wedges",
+        "Fresh dill"
+      ],
+      "steps": [
+        "Mix lemon myrtle, olive oil, salt, and pepper.",
+        "Coat barramundi fillets with the mixture.",
+        "Preheat grill to medium-high.",
+        "Grill fillets skin-side down for 5 minutes.",
+        "Flip and grill for 4-5 minutes until flaky.",
+        "Garnish with dill and serve with lemon."
+      ],
+      "time": "20 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Barramundi is native to Australia and is a favorite in Australian cuisine. Lemon myrtle is a native Australian herb with a strong citrus flavor.",
+      "servingSuggestions": "Serve with roasted sweet potatoes and a fresh salad. Perfect for an Australian barbecue."
+    },
+    {
+      "id": "r17",
+      "speciesId": "18",
+      "speciesName": "Atlantic Pollock",
+      "country": "France",
+      "cuisine": "French",
+      "title": "French Provençal Baked Pollock",
+      "ingredients": [
+        "4 pollock fillets",
+        "2 tbsp olive oil",
+        "1 onion, sliced",
+        "2 cloves garlic, minced",
+        "1 cup diced tomatoes",
+        "1/2 cup white wine",
+        "Herbes de Provence",
+        "Black olives",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 375°F.",
+        "Heat olive oil and sauté onion and garlic.",
+        "Add tomatoes, wine, and herbs. Simmer for 10 minutes.",
+        "Place fish in a baking dish and pour sauce over.",
+        "Add olives and bake for 20 minutes.",
+        "Serve hot."
+      ],
+      "time": "40 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Provençal cuisine from the south of France emphasizes fresh vegetables, herbs, and olive oil. This dish captures the essence of Mediterranean French cooking.",
+      "servingSuggestions": "Serve with crusty bread and a green salad. Pair with a Provençal rosé wine."
+    },
+    {
+      "id": "r18",
+      "speciesId": "19",
+      "speciesName": "King Mackerel",
+      "country": "USA",
+      "cuisine": "American",
+      "title": "American Grilled King Mackerel with Herbs",
+      "ingredients": [
+        "4 king mackerel fillets",
+        "2 tbsp olive oil",
+        "2 tbsp fresh dill, chopped",
+        "2 tbsp fresh parsley, chopped",
+        "1 tbsp fresh thyme",
+        "Lemon zest and juice",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Mix herbs, olive oil, lemon zest, and juice.",
+        "Season fish with salt and pepper.",
+        "Coat with herb mixture.",
+        "Grill over medium heat for 5-6 minutes per side.",
+        "Serve immediately."
+      ],
+      "time": "20 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Grilled fish with fresh herbs is a popular American coastal dish, especially in the Southeast. The simple preparation highlights the fish's natural flavor.",
+      "servingSuggestions": "Serve with coleslaw, corn on the cob, or a fresh green salad. Perfect for summer grilling."
+    },
+    {
+      "id": "r19",
+      "speciesId": "21",
+      "speciesName": "Wahoo",
+      "country": "Hawaii",
+      "cuisine": "Hawaiian",
+      "title": "Hawaiian Poke-Style Wahoo",
+      "ingredients": [
+        "1.5 lbs wahoo, cubed",
+        "1/4 cup soy sauce",
+        "2 tbsp sesame oil",
+        "1 tbsp rice vinegar",
+        "2 green onions, sliced",
+        "1/2 cup chopped macadamia nuts",
+        "Sesame seeds",
+        "Seaweed (optional)"
+      ],
+      "steps": [
+        "Mix soy sauce, sesame oil, and rice vinegar.",
+        "Toss wahoo cubes with the sauce.",
+        "Add green onions and macadamia nuts.",
+        "Marinate for 30 minutes in refrigerator.",
+        "Serve chilled with sesame seeds and seaweed."
+      ],
+      "time": "40 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Poke is a traditional Hawaiian dish of raw fish marinated in soy sauce and sesame oil. This recipe adapts the classic poke for wahoo.",
+      "servingSuggestions": "Serve over rice or as an appetizer. Best enjoyed fresh and cold."
+    },
+    {
+      "id": "r20",
+      "speciesId": "31",
+      "speciesName": "Anchovy",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "title": "Italian Spaghetti with Anchovies and Garlic",
+      "ingredients": [
+        "1 lb spaghetti",
+        "1/2 cup olive oil",
+        "8 cloves garlic, sliced",
+        "1 can anchovies in oil",
+        "Red pepper flakes",
+        "Fresh parsley, chopped",
+        "Lemon zest",
+        "Parmesan cheese (optional)"
+      ],
+      "steps": [
+        "Cook spaghetti according to package directions.",
+        "Heat olive oil in a large pan.",
+        "Add garlic and cook until golden.",
+        "Add anchovies and mash with a fork.",
+        "Add red pepper flakes.",
+        "Toss with cooked pasta.",
+        "Garnish with parsley and lemon zest.",
+        "Serve with Parmesan if desired."
+      ],
+      "time": "20 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Spaghetti aglio e olio with anchovies is a classic Italian dish from Naples. The anchovies dissolve into the oil, creating a rich, umami flavor.",
+      "servingSuggestions": "Serve with a simple green salad and crusty bread. A light Italian white wine complements this dish perfectly."
+    },
+    {
+      "id": "r21",
+      "speciesId": "35",
+      "speciesName": "Sea Bream",
+      "country": "Lebanon",
+      "cuisine": "Lebanese",
+      "title": "Lebanese Sayadieh with Sea Bream",
+      "ingredients": [
+        "1 whole sea bream (2-3 lbs), cleaned and scaled",
+        "2 cups basmati rice",
+        "2 large onions, thinly sliced",
+        "4 cups fish stock or water",
+        "1/4 cup olive oil",
+        "2 tbsp ground cumin",
+        "1 tbsp ground coriander",
+        "1 tsp turmeric",
+        "1/2 cup pine nuts",
+        "1/2 cup slivered almonds",
+        "Salt and pepper",
+        "Fresh parsley for garnish",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Heat olive oil in a large pot and caramelize onions until golden brown (15-20 minutes).",
+        "Add cumin, coriander, and turmeric to the onions and toast for 1 minute.",
+        "Add rice and stir to coat with spices.",
+        "Add fish stock, bring to a boil, then reduce heat and simmer covered for 15 minutes.",
+        "Season sea bream with salt and pepper, then pan-fry in olive oil until crispy (5-6 minutes per side).",
+        "Toast pine nuts and almonds separately until golden.",
+        "Fluff rice and serve on a platter, top with fish, and garnish with toasted nuts and parsley.",
+        "Serve with lemon wedges."
+      ],
+      "time": "50 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Sayadieh is one of Lebanon's most beloved fish dishes. The name means 'fisherman's dish' and features caramelized onions, spiced rice, and crispy fried fish. It's a staple in coastal Lebanese cuisine.",
+      "servingSuggestions": "Serve family-style on a large platter. Traditionally accompanied by a fresh green salad, pickled vegetables (mouneh), and tahini sauce. Perfect for a Lebanese feast."
+    },
+    {
+      "id": "r22",
+      "speciesId": "36",
+      "speciesName": "European Seabass",
+      "country": "Lebanon",
+      "cuisine": "Lebanese",
+      "title": "Grilled Seabass with Tahini Sauce (Samak Meshwi)",
+      "ingredients": [
+        "4 seabass fillets (6 oz each)",
+        "1/2 cup tahini",
+        "1/4 cup lemon juice",
+        "2 cloves garlic, minced",
+        "1/4 cup water",
+        "2 tbsp olive oil",
+        "1 tsp ground cumin",
+        "Salt and pepper",
+        "Fresh parsley, chopped",
+        "Sumac for garnish",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Mix tahini, lemon juice, garlic, water, cumin, salt, and pepper to make tahini sauce. Adjust consistency with water if needed.",
+        "Season seabass fillets with salt, pepper, and olive oil.",
+        "Preheat grill to medium-high heat.",
+        "Grill seabass skin-side down for 4-5 minutes, then flip and grill for 3-4 minutes until flaky.",
+        "Arrange fish on a platter and drizzle with tahini sauce.",
+        "Garnish with parsley, sumac, and serve with lemon wedges."
+      ],
+      "time": "30 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Grilled fish with tahini sauce is a classic Lebanese coastal dish. The creamy tahini complements the delicate flavor of seabass, and sumac adds a tangy, lemony note typical of Levantine cuisine.",
+      "servingSuggestions": "Serve with fattoush salad, hummus, and warm pita bread. A crisp Lebanese white wine or arak pairs beautifully with this dish."
+    },
+    {
+      "id": "r23",
+      "speciesId": "37",
+      "speciesName": "Red Mullet",
+      "country": "Lebanon",
+      "cuisine": "Lebanese",
+      "title": "Pan-Fried Red Mullet with Garlic and Coriander (Sultan Ibrahim)",
+      "ingredients": [
+        "8 whole red mullet, cleaned",
+        "1/2 cup olive oil",
+        "8 cloves garlic, thinly sliced",
+        "1 cup fresh coriander, chopped",
+        "1/2 cup fresh parsley, chopped",
+        "2 lemons, juiced",
+        "1 tsp ground coriander",
+        "Salt and pepper",
+        "Flour for dusting",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Season red mullet with salt and pepper, then dust lightly with flour.",
+        "Heat olive oil in a large pan over medium-high heat.",
+        "Pan-fry mullet for 3-4 minutes per side until golden and crispy.",
+        "Remove fish and set aside on a platter.",
+        "In the same pan, add more olive oil if needed and sauté garlic until golden.",
+        "Add fresh coriander, parsley, ground coriander, and lemon juice.",
+        "Cook for 1 minute, then pour the sauce over the fish.",
+        "Serve immediately with lemon wedges."
+      ],
+      "time": "25 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Red mullet, known as 'Sultan Ibrahim' in Lebanon, is highly prized for its delicate flavor. This simple preparation with garlic and coriander is a traditional Lebanese way of cooking this fish, highlighting its natural sweetness.",
+      "servingSuggestions": "Serve with Lebanese rice pilaf, fattoush salad, and warm pita bread. The fish is best eaten whole, picking the meat from the bones."
+    },
+    {
+      "id": "r24",
+      "speciesId": "39",
+      "speciesName": "Mediterranean Sardine",
+      "country": "Lebanon",
+      "cuisine": "Lebanese",
+      "title": "Lebanese Stuffed Sardines (Sardines Mahshi)",
+      "ingredients": [
+        "2 lbs fresh sardines, cleaned and butterflied",
+        "1 cup bulgur wheat",
+        "1 large onion, finely chopped",
+        "1/2 cup fresh parsley, chopped",
+        "1/4 cup fresh mint, chopped",
+        "1/4 cup pine nuts",
+        "2 tbsp olive oil",
+        "1 tsp ground allspice",
+        "1/2 tsp ground cinnamon",
+        "Salt and pepper",
+        "Lemon wedges",
+        "Tahini sauce for serving"
+      ],
+      "steps": [
+        "Soak bulgur in warm water for 20 minutes, then drain and squeeze out excess water.",
+        "Sauté onion in olive oil until soft, then add pine nuts and toast until golden.",
+        "Mix bulgur with onion, pine nuts, parsley, mint, allspice, cinnamon, salt, and pepper.",
+        "Stuff each sardine with the bulgur mixture and close.",
+        "Arrange stuffed sardines in a baking dish, drizzle with olive oil.",
+        "Bake at 375°F for 20-25 minutes until fish is cooked through.",
+        "Serve hot with tahini sauce and lemon wedges."
+      ],
+      "time": "60 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Stuffed sardines are a traditional Lebanese dish, especially popular in coastal areas. The bulgur stuffing with herbs and spices is a classic Levantine preparation, and this dish is often served during special occasions.",
+      "servingSuggestions": "Serve as a main course with a fresh salad and pickled vegetables. This dish is perfect for sharing and is often part of a mezze spread."
+    },
+    {
+      "id": "r25",
+      "speciesId": "40",
+      "speciesName": "Dentex",
+      "country": "Lebanon",
+      "cuisine": "Lebanese",
+      "title": "Lebanese Baked Dentex with Tomatoes and Herbs",
+      "ingredients": [
+        "1 whole dentex (3-4 lbs), cleaned",
+        "4 large tomatoes, sliced",
+        "2 onions, sliced",
+        "1/2 cup olive oil",
+        "4 cloves garlic, minced",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh cilantro, chopped",
+        "2 tbsp fresh thyme",
+        "1 lemon, sliced",
+        "1 tsp ground sumac",
+        "Salt and pepper",
+        "Pomegranate seeds for garnish (optional)"
+      ],
+      "steps": [
+        "Preheat oven to 400°F.",
+        "Make diagonal cuts on both sides of the fish.",
+        "Mix olive oil, garlic, parsley, cilantro, thyme, sumac, salt, and pepper.",
+        "Rub the herb mixture inside and outside the fish, including the cuts.",
+        "Layer tomatoes and onions in a baking dish.",
+        "Place fish on top of the vegetables and arrange lemon slices on the fish.",
+        "Bake for 30-35 minutes until fish is flaky and vegetables are tender.",
+        "Garnish with fresh herbs and pomegranate seeds if using."
+      ],
+      "time": "50 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Baked fish with tomatoes and herbs is a classic Lebanese preparation, especially for larger fish like dentex. The combination of fresh herbs, sumac, and tomatoes creates a vibrant, Mediterranean flavor profile.",
+      "servingSuggestions": "Serve with Lebanese rice, roasted vegetables, and a side of tahini. Perfect for a family dinner or special occasion."
+    },
+    {
+      "id": "r26",
+      "speciesId": "7",
+      "speciesName": "Mackerel",
+      "country": "Lebanon",
+      "cuisine": "Lebanese",
+      "title": "Lebanese Grilled Mackerel with Za'atar",
+      "ingredients": [
+        "4 mackerel fillets",
+        "3 tbsp za'atar",
+        "1/4 cup olive oil",
+        "2 lemons, juiced",
+        "4 cloves garlic, minced",
+        "Salt and pepper",
+        "Fresh parsley",
+        "Sumac for garnish"
+      ],
+      "steps": [
+        "Mix za'atar, olive oil, lemon juice, and garlic to make marinade.",
+        "Marinate mackerel fillets for 30 minutes.",
+        "Preheat grill to medium-high.",
+        "Grill mackerel skin-side down for 5 minutes, then flip and grill for 4 minutes.",
+        "Garnish with parsley and sumac.",
+        "Serve with lemon wedges."
+      ],
+      "time": "45 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Za'atar is a quintessential Lebanese spice blend of thyme, sumac, and sesame seeds. Grilling mackerel with za'atar is a popular Lebanese coastal preparation that brings out the fish's rich flavor.",
+      "servingSuggestions": "Serve with tabbouleh, hummus, and warm pita bread. A refreshing Lebanese salad completes the meal."
+    },
+    {
+      "id": "r27",
+      "speciesId": "12",
+      "speciesName": "Skipjack Tuna",
+      "country": "Thailand",
+      "cuisine": "Thai",
+      "title": "Thai Tuna Green Curry",
+      "ingredients": [
+        "1.5 lbs skipjack tuna, cut into chunks",
+        "2 tbsp green curry paste",
+        "1 can coconut milk",
+        "2 tbsp fish sauce",
+        "1 tbsp palm sugar",
+        "Thai basil leaves",
+        "2 green chilies, sliced",
+        "1 eggplant, cubed",
+        "Kaffir lime leaves",
+        "Lime juice"
+      ],
+      "steps": [
+        "Fry green curry paste in a wok until fragrant.",
+        "Add half the coconut milk and cook until oil separates.",
+        "Add remaining coconut milk, fish sauce, and palm sugar.",
+        "Add eggplant and cook for 5 minutes.",
+        "Add tuna chunks and cook for 5-7 minutes.",
+        "Stir in basil, chilies, and lime leaves.",
+        "Finish with lime juice and serve."
+      ],
+      "time": "30 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Green curry is one of Thailand's most popular dishes, known for its balance of spicy, sweet, and creamy flavors. This version with tuna showcases the versatility of Thai curry.",
+      "servingSuggestions": "Serve with jasmine rice and a side of pickled vegetables. The curry is best enjoyed hot."
+    },
+    {
+      "id": "r28",
+      "speciesId": "16",
+      "speciesName": "Mahi-Mahi",
+      "country": "Brazil",
+      "cuisine": "Brazilian",
+      "title": "Brazilian Moqueca de Peixe",
+      "ingredients": [
+        "2 lbs mahi-mahi, cut into chunks",
+        "2 cans coconut milk",
+        "2 large tomatoes, diced",
+        "1 large onion, sliced",
+        "1 bell pepper, sliced",
+        "4 cloves garlic, minced",
+        "1/4 cup dendê oil (palm oil)",
+        "2 tbsp cilantro, chopped",
+        "Lime juice",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Marinate fish in lime juice, salt, and pepper for 30 minutes.",
+        "In a large pot, layer onions, tomatoes, and bell pepper.",
+        "Add fish chunks on top.",
+        "Pour coconut milk and dendê oil over everything.",
+        "Simmer for 20 minutes until fish is cooked.",
+        "Garnish with cilantro and serve."
+      ],
+      "time": "60 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Moqueca is a traditional Brazilian fish stew from Bahia, combining African, Portuguese, and indigenous influences. The dendê oil gives it a distinctive orange color and rich flavor.",
+      "servingSuggestions": "Serve with white rice and farofa. A refreshing caipirinha complements this dish perfectly."
+    },
+    {
+      "id": "r29",
+      "speciesId": "17",
+      "speciesName": "Barramundi",
+      "country": "Thailand",
+      "cuisine": "Thai",
+      "title": "Thai Steamed Barramundi with Lime and Chili",
+      "ingredients": [
+        "1 whole barramundi (2-3 lbs), cleaned",
+        "4 limes, juiced",
+        "4 Thai chilies, sliced",
+        "4 cloves garlic, minced",
+        "2 tbsp fish sauce",
+        "1 tbsp palm sugar",
+        "Cilantro and mint leaves",
+        "Lime slices"
+      ],
+      "steps": [
+        "Make diagonal cuts on both sides of the fish.",
+        "Mix lime juice, chilies, garlic, fish sauce, and palm sugar for sauce.",
+        "Steam fish for 15-20 minutes until cooked.",
+        "Pour sauce over fish and garnish with herbs and lime slices.",
+        "Serve immediately."
+      ],
+      "time": "30 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Steamed fish with lime and chili is a classic Thai preparation that highlights the fish's natural flavor. The spicy, sour sauce is characteristic of Thai cuisine.",
+      "servingSuggestions": "Serve with steamed jasmine rice and a side of stir-fried vegetables. The dish is light and refreshing."
+    },
+    {
+      "id": "r30",
+      "speciesId": "18",
+      "speciesName": "Atlantic Pollock",
+      "country": "UK",
+      "cuisine": "British",
+      "title": "British Fish and Chips with Pollock",
+      "ingredients": [
+        "4 pollock fillets",
+        "1 cup flour",
+        "1 cup beer",
+        "1 tsp baking powder",
+        "Salt and pepper",
+        "Oil for frying",
+        "4 large potatoes, cut into chips",
+        "Malt vinegar",
+        "Tartar sauce"
+      ],
+      "steps": [
+        "Cut potatoes into chips and fry until golden.",
+        "Mix flour, beer, baking powder, salt, and pepper for batter.",
+        "Heat oil to 350°F.",
+        "Dip pollock in batter and fry until golden (5-6 minutes).",
+        "Serve with chips, vinegar, and tartar sauce."
+      ],
+      "time": "40 minutes",
+      "difficulty": "Medium",
+      "culturalBackground": "Fish and chips is Britain's most iconic dish, traditionally made with cod or haddock. Using pollock is a sustainable alternative that maintains the classic flavor.",
+      "servingSuggestions": "Serve wrapped in paper with malt vinegar and tartar sauce. A classic British pub meal."
+    },
+    {
+      "id": "r31",
+      "speciesId": "36",
+      "speciesName": "European Seabass",
+      "country": "Greece",
+      "cuisine": "Greek",
+      "title": "Greek Baked Seabass with Potatoes",
+      "ingredients": [
+        "1 whole seabass (2-3 lbs)",
+        "4 large potatoes, sliced",
+        "1/2 cup olive oil",
+        "4 cloves garlic, minced",
+        "2 lemons, juiced",
+        "Fresh oregano",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Preheat oven to 400°F.",
+        "Layer potatoes in a baking dish, drizzle with olive oil.",
+        "Bake potatoes for 20 minutes.",
+        "Place fish on potatoes, season with garlic, lemon, oregano, salt, and pepper.",
+        "Bake for 25 minutes until fish is flaky.",
+        "Serve hot."
+      ],
+      "time": "50 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Baked fish with potatoes is a traditional Greek dish, especially popular in coastal regions. The simple preparation with olive oil and lemon is quintessentially Mediterranean.",
+      "servingSuggestions": "Serve with a Greek salad and crusty bread. A crisp Greek white wine pairs perfectly."
+    },
+    {
+      "id": "r32",
+      "speciesId": "37",
+      "speciesName": "Red Mullet",
+      "country": "Greece",
+      "cuisine": "Greek",
+      "title": "Greek Grilled Red Mullet",
+      "ingredients": [
+        "8 whole red mullet",
+        "1/2 cup olive oil",
+        "4 cloves garlic, minced",
+        "2 lemons, juiced",
+        "Fresh oregano",
+        "Salt and pepper",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Mix olive oil, garlic, lemon juice, oregano, salt, and pepper.",
+        "Marinate mullet for 30 minutes.",
+        "Grill over medium heat for 4-5 minutes per side.",
+        "Serve with lemon wedges."
+      ],
+      "time": "40 minutes",
+      "difficulty": "Easy",
+      "culturalBackground": "Grilled red mullet is a favorite in Greek coastal cuisine. The fish is often grilled whole and served simply with lemon and herbs.",
+      "servingSuggestions": "Serve with horiatiki salad and roasted vegetables. Perfect for a Greek summer meal."
+    }
+  ]
+}
+
+

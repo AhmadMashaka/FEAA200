@@ -1,0 +1,815 @@
+{
+  "species": [
+    {
+      "id": "1",
+      "name": "Bluefin Tuna",
+      "scientificName": "Thunnus thynnus",
+      "status": "Endangered",
+      "population": 250000,
+      "populationTrend": "Decreasing",
+      "countries": ["Japan", "USA", "Australia", "Spain", "Italy", "Greece", "Turkey", "Morocco", "Tunisia"],
+      "noFishingZones": ["North Pacific Zone A", "Mediterranean Preserve", "Eastern Atlantic Sanctuary"],
+      "description": "The Atlantic bluefin tuna is one of the largest, fastest, and most gorgeously colored of all the world's fishes. Their torpedo-shaped, streamlined bodies are built for speed and endurance. Their coloring—metallic blue on top and shimmering silver-white on the bottom—helps camouflage them from above and below.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en",
+        "https://www.fishbase.se/summary/Thunnus-thynnus.html"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "4.6 m",
+      "maxWeight": "684 kg"
+    },
+    {
+      "id": "2",
+      "name": "Atlantic Cod",
+      "scientificName": "Gadus morhua",
+      "status": "Vulnerable",
+      "population": 1200000,
+      "populationTrend": "Stable",
+      "countries": ["Norway", "Iceland", "Canada", "USA", "UK", "Denmark", "Germany", "Netherlands"],
+      "noFishingZones": ["North Sea Protected Area", "Barents Sea Reserve"],
+      "description": "Atlantic cod is a benthopelagic fish found in the colder waters of the North Atlantic. It has been an important food source for centuries and is known for its white, flaky flesh. Overfishing has significantly reduced populations in some areas.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, benthic",
+      "maxLength": "2 m",
+      "maxWeight": "96 kg"
+    },
+    {
+      "id": "3",
+      "name": "Pacific Salmon",
+      "scientificName": "Oncorhynchus spp.",
+      "status": "Stable",
+      "population": 5000000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Canada", "Russia", "Japan", "South Korea"],
+      "noFishingZones": ["Alaska Marine Sanctuary", "Pacific Northwest Reserve"],
+      "description": "Pacific salmon are anadromous fish, meaning they are born in freshwater, migrate to the ocean, and return to freshwater to spawn. They play a crucial role in marine and freshwater ecosystems.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Freshwater rivers and streams, open ocean",
+      "maxLength": "1.5 m",
+      "maxWeight": "57 kg"
+    },
+    {
+      "id": "4",
+      "name": "European Eel",
+      "scientificName": "Anguilla anguilla",
+      "status": "Critically Endangered",
+      "population": 50000,
+      "populationTrend": "Decreasing",
+      "countries": ["UK", "France", "Germany", "Spain", "Italy", "Greece", "Netherlands", "Belgium", "Denmark", "Sweden", "Norway"],
+      "noFishingZones": ["North Sea Eel Sanctuary", "Mediterranean Eel Reserve"],
+      "description": "The European eel is a critically endangered species that has experienced dramatic population declines. They have a complex life cycle, spawning in the Sargasso Sea and migrating to European rivers.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Freshwater rivers, estuaries, open ocean",
+      "maxLength": "1.5 m",
+      "maxWeight": "6.6 kg"
+    },
+    {
+      "id": "5",
+      "name": "Yellowfin Tuna",
+      "scientificName": "Thunnus albacares",
+      "status": "Near Threatened",
+      "population": 3500000,
+      "populationTrend": "Stable",
+      "countries": ["Japan", "USA", "Australia", "Indonesia", "Philippines", "Thailand", "Vietnam", "India", "Sri Lanka", "Maldives"],
+      "noFishingZones": ["Indian Ocean Sanctuary", "Pacific Tuna Reserve"],
+      "description": "Yellowfin tuna are found in tropical and subtropical waters worldwide. They are highly valued for their meat and are a popular target for commercial and sport fishing.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "2.4 m",
+      "maxWeight": "200 kg"
+    },
+    {
+      "id": "6",
+      "name": "Atlantic Halibut",
+      "scientificName": "Hippoglossus hippoglossus",
+      "status": "Endangered",
+      "population": 150000,
+      "populationTrend": "Decreasing",
+      "countries": ["Norway", "Iceland", "Canada", "USA", "UK", "France", "Spain"],
+      "noFishingZones": ["North Atlantic Halibut Reserve", "Icelandic Waters Protected Area"],
+      "description": "The Atlantic halibut is the largest flatfish in the world. It is a bottom-dwelling fish found in the cold waters of the North Atlantic. Overfishing has severely impacted populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, benthic",
+      "maxLength": "4.7 m",
+      "maxWeight": "320 kg"
+    },
+    {
+      "id": "7",
+      "name": "Mackerel",
+      "scientificName": "Scomber scombrus",
+      "status": "Stable",
+      "population": 8000000,
+      "populationTrend": "Stable",
+      "countries": ["UK", "Norway", "Iceland", "Spain", "Portugal", "France", "Italy", "Greece", "Turkey"],
+      "noFishingZones": ["North Sea Mackerel Zone", "Mediterranean Preserve"],
+      "description": "Atlantic mackerel is a fast-swimming, schooling fish found in the North Atlantic. It is an important commercial species and a key part of the marine food web.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "60 cm",
+      "maxWeight": "3.4 kg"
+    },
+    {
+      "id": "8",
+      "name": "Swordfish",
+      "scientificName": "Xiphias gladius",
+      "status": "Least Concern",
+      "population": 6000000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Japan", "Spain", "Italy", "Greece", "Turkey", "Australia", "South Africa", "Chile", "Peru"],
+      "noFishingZones": ["Mediterranean Swordfish Reserve", "Pacific Protected Zone"],
+      "description": "Swordfish are large, highly migratory, predatory fish characterized by a long, flat, pointed bill. They are found in temperate and tropical waters worldwide.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "4.6 m",
+      "maxWeight": "650 kg"
+    },
+    {
+      "id": "9",
+      "name": "Atlantic Herring",
+      "scientificName": "Clupea harengus",
+      "status": "Stable",
+      "population": 12000000,
+      "populationTrend": "Stable",
+      "countries": ["Norway", "Iceland", "UK", "Denmark", "Germany", "Netherlands", "Canada", "USA"],
+      "noFishingZones": ["North Sea Herring Sanctuary", "Baltic Sea Reserve"],
+      "description": "Atlantic herring is one of the most abundant fish species in the world. They form large schools and are a crucial part of the marine ecosystem, serving as prey for many larger fish, marine mammals, and seabirds.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "45 cm",
+      "maxWeight": "1.1 kg"
+    },
+    {
+      "id": "10",
+      "name": "Giant Grouper",
+      "scientificName": "Epinephelus lanceolatus",
+      "status": "Vulnerable",
+      "population": 200000,
+      "populationTrend": "Decreasing",
+      "countries": ["Australia", "Indonesia", "Philippines", "Thailand", "Malaysia", "India", "Sri Lanka", "Maldives", "Japan"],
+      "noFishingZones": ["Great Barrier Reef Marine Park", "Coral Triangle Protected Area", "Indian Ocean Reserve"],
+      "description": "The giant grouper is the largest bony fish found in coral reefs. They are slow-growing, long-lived fish that are vulnerable to overfishing. They play an important role in maintaining reef ecosystem balance.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Coral reefs, rocky areas",
+      "maxLength": "2.7 m",
+      "maxWeight": "400 kg"
+    },
+    {
+      "id": "11",
+      "name": "Orange Roughy",
+      "scientificName": "Hoplostethus atlanticus",
+      "status": "Vulnerable",
+      "population": 180000,
+      "populationTrend": "Decreasing",
+      "countries": ["New Zealand", "Australia", "Chile", "Namibia", "South Africa"],
+      "noFishingZones": ["Southern Ocean Protected Zone", "New Zealand Deep Sea Reserve"],
+      "description": "Orange roughy is a deep-sea fish that can live for over 100 years. They are slow-growing and late-maturing, making them extremely vulnerable to overfishing. Deep-sea trawling has severely impacted populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Deep sea, continental slope",
+      "maxLength": "75 cm",
+      "maxWeight": "7 kg"
+    },
+    {
+      "id": "12",
+      "name": "Skipjack Tuna",
+      "scientificName": "Katsuwonus pelamis",
+      "status": "Least Concern",
+      "population": 15000000,
+      "populationTrend": "Stable",
+      "countries": ["Japan", "Indonesia", "Philippines", "Thailand", "Vietnam", "India", "Sri Lanka", "Maldives", "Ecuador", "Peru"],
+      "noFishingZones": ["Pacific Tuna Reserve", "Indian Ocean Sanctuary"],
+      "description": "Skipjack tuna is the most abundant and widely distributed tuna species. They are fast-growing and highly productive, making them more resilient to fishing pressure than other tuna species.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "1.1 m",
+      "maxWeight": "34 kg"
+    },
+    {
+      "id": "13",
+      "name": "Atlantic Blue Marlin",
+      "scientificName": "Makaira nigricans",
+      "status": "Vulnerable",
+      "population": 300000,
+      "populationTrend": "Decreasing",
+      "countries": ["USA", "Brazil", "Venezuela", "Cuba", "Bahamas", "Mexico", "Costa Rica", "Panama"],
+      "noFishingZones": ["Caribbean Marlin Sanctuary", "Atlantic Protected Zone"],
+      "description": "The Atlantic blue marlin is one of the largest and most recognizable billfish. They are highly migratory and are prized by sport fishermen. Commercial fishing and bycatch have impacted populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "5 m",
+      "maxWeight": "820 kg"
+    },
+    {
+      "id": "14",
+      "name": "Red Snapper",
+      "scientificName": "Lutjanus campechanus",
+      "status": "Vulnerable",
+      "population": 450000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Mexico", "Cuba", "Bahamas", "Jamaica", "Haiti", "Dominican Republic"],
+      "noFishingZones": ["Gulf of Mexico Reserve", "Caribbean Protected Area"],
+      "description": "Red snapper is a popular commercial and recreational fish found in the Gulf of Mexico and western Atlantic. They are long-lived and slow-growing, making them vulnerable to overfishing.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Reefs, rocky areas, continental shelf",
+      "maxLength": "1 m",
+      "maxWeight": "22 kg"
+    },
+    {
+      "id": "15",
+      "name": "Chilean Sea Bass",
+      "scientificName": "Dissostichus eleginoides",
+      "status": "Vulnerable",
+      "population": 220000,
+      "populationTrend": "Decreasing",
+      "countries": ["Chile", "Argentina", "South Africa", "Australia", "New Zealand", "France"],
+      "noFishingZones": ["Southern Ocean Protected Zone", "Antarctic Reserve"],
+      "description": "Chilean sea bass, also known as Patagonian toothfish, is a deep-sea fish found in cold southern waters. They are slow-growing and long-lived, making them vulnerable to overfishing. Illegal fishing has been a major concern.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Deep sea, continental slope",
+      "maxLength": "2.3 m",
+      "maxWeight": "200 kg"
+    },
+    {
+      "id": "16",
+      "name": "Mahi-Mahi",
+      "scientificName": "Coryphaena hippurus",
+      "status": "Least Concern",
+      "population": 8000000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Mexico", "Brazil", "Costa Rica", "Panama", "Ecuador", "Peru", "Chile", "Australia", "Japan"],
+      "noFishingZones": ["Caribbean Protected Zone", "Pacific Mahi Reserve"],
+      "description": "Mahi-mahi, also known as dolphinfish, is a surface-dwelling ray-finned fish found in off-shore temperate, tropical, and subtropical waters worldwide. They are known for their vibrant colors and are popular in sport fishing.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, surface waters",
+      "maxLength": "2.1 m",
+      "maxWeight": "40 kg"
+    },
+    {
+      "id": "17",
+      "name": "Barramundi",
+      "scientificName": "Lates calcarifer",
+      "status": "Least Concern",
+      "population": 5000000,
+      "populationTrend": "Stable",
+      "countries": ["Australia", "Indonesia", "Thailand", "Malaysia", "Vietnam", "Philippines", "India", "Bangladesh"],
+      "noFishingZones": ["Great Barrier Reef Marine Park", "Southeast Asian Reserve"],
+      "description": "Barramundi is a catadromous fish found in the Indo-Pacific region. They are highly valued for their taste and are an important species in aquaculture. They can live in both freshwater and saltwater.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Rivers, estuaries, coastal waters",
+      "maxLength": "1.8 m",
+      "maxWeight": "60 kg"
+    },
+    {
+      "id": "18",
+      "name": "Atlantic Pollock",
+      "scientificName": "Pollachius pollachius",
+      "status": "Least Concern",
+      "population": 3000000,
+      "populationTrend": "Stable",
+      "countries": ["Norway", "Iceland", "UK", "France", "Spain", "Portugal", "Morocco"],
+      "noFishingZones": ["North Atlantic Reserve", "Icelandic Waters Protected Area"],
+      "description": "Atlantic pollock is a commercially important fish found in the North Atlantic. They are closely related to cod and are known for their white, flaky flesh. They form schools and are found in both coastal and deeper waters.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, coastal waters",
+      "maxLength": "1.3 m",
+      "maxWeight": "18 kg"
+    },
+    {
+      "id": "19",
+      "name": "Haddock",
+      "scientificName": "Melanogrammus aeglefinus",
+      "status": "Vulnerable",
+      "population": 800000,
+      "populationTrend": "Decreasing",
+      "countries": ["Norway", "Iceland", "UK", "Canada", "USA", "France", "Germany"],
+      "noFishingZones": ["North Sea Protected Area", "Georges Bank Reserve"],
+      "description": "Haddock is a saltwater fish found in the North Atlantic. They are closely related to cod and are an important commercial species. Overfishing has led to population declines in some areas.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, benthic",
+      "maxLength": "1.1 m",
+      "maxWeight": "11 kg"
+    },
+    {
+      "id": "20",
+      "name": "King Mackerel",
+      "scientificName": "Scomberomorus cavalla",
+      "status": "Least Concern",
+      "population": 2500000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Mexico", "Brazil", "Venezuela", "Colombia", "Cuba", "Bahamas"],
+      "noFishingZones": ["Gulf of Mexico Reserve", "Caribbean Protected Zone"],
+      "description": "King mackerel is a migratory species found in the western Atlantic Ocean and Gulf of Mexico. They are popular among sport fishermen and are known for their speed and fighting ability.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, coastal waters",
+      "maxLength": "1.8 m",
+      "maxWeight": "45 kg"
+    },
+    {
+      "id": "21",
+      "name": "Wahoo",
+      "scientificName": "Acanthocybium solandri",
+      "status": "Least Concern",
+      "population": 4000000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Mexico", "Brazil", "Australia", "Japan", "Hawaii", "Caribbean Islands"],
+      "noFishingZones": ["Caribbean Protected Zone", "Pacific Wahoo Reserve"],
+      "description": "Wahoo is a fast-swimming predatory fish found in tropical and subtropical seas worldwide. They are highly prized by sport fishermen for their speed and are also commercially important.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "2.5 m",
+      "maxWeight": "83 kg"
+    },
+    {
+      "id": "22",
+      "name": "Grouper (Various Species)",
+      "scientificName": "Epinephelus spp.",
+      "status": "Vulnerable",
+      "population": 1200000,
+      "populationTrend": "Decreasing",
+      "countries": ["USA", "Mexico", "Brazil", "Australia", "Indonesia", "Philippines", "Thailand", "Malaysia", "India"],
+      "noFishingZones": ["Caribbean Grouper Reserve", "Coral Triangle Protected Area", "Great Barrier Reef Marine Park"],
+      "description": "Groupers are large, heavy-bodied fish found in warm seas. Many species are slow-growing and long-lived, making them vulnerable to overfishing. They are important predators on coral reefs.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Coral reefs, rocky areas",
+      "maxLength": "2.5 m",
+      "maxWeight": "400 kg"
+    },
+    {
+      "id": "23",
+      "name": "Tilefish",
+      "scientificName": "Lopholatilus chamaeleonticeps",
+      "status": "Vulnerable",
+      "population": 350000,
+      "populationTrend": "Decreasing",
+      "countries": ["USA", "Canada", "Brazil", "Uruguay", "Argentina"],
+      "noFishingZones": ["North Atlantic Tilefish Reserve", "South Atlantic Protected Zone"],
+      "description": "Tilefish are deep-water fish found on the continental shelf and slope. They are known for their colorful appearance and are valued commercially. Deep-sea fishing has impacted some populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Deep sea, continental slope",
+      "maxLength": "1.1 m",
+      "maxWeight": "30 kg"
+    },
+    {
+      "id": "24",
+      "name": "Monkfish",
+      "scientificName": "Lophius americanus",
+      "status": "Vulnerable",
+      "population": 280000,
+      "populationTrend": "Decreasing",
+      "countries": ["USA", "Canada", "Iceland", "UK", "France", "Spain", "Portugal"],
+      "noFishingZones": ["North Atlantic Monkfish Reserve", "Icelandic Waters Protected Area"],
+      "description": "Monkfish, also known as anglerfish, are bottom-dwelling fish found in the North Atlantic. They are known for their large mouth and are commercially important. Overfishing has reduced populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, benthic",
+      "maxLength": "1.5 m",
+      "maxWeight": "57 kg"
+    },
+    {
+      "id": "25",
+      "name": "Black Sea Bass",
+      "scientificName": "Centropristis striata",
+      "status": "Near Threatened",
+      "population": 1800000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Canada"],
+      "noFishingZones": ["Atlantic Black Sea Bass Reserve", "Gulf of Maine Protected Area"],
+      "description": "Black sea bass is a bottom-dwelling fish found along the Atlantic coast of North America. They are popular among recreational and commercial fishermen. Management measures have helped stabilize populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, rocky areas",
+      "maxLength": "66 cm",
+      "maxWeight": "4 kg"
+    },
+    {
+      "id": "26",
+      "name": "Striped Bass",
+      "scientificName": "Morone saxatilis",
+      "status": "Least Concern",
+      "population": 3500000,
+      "populationTrend": "Stable",
+      "countries": ["USA", "Canada"],
+      "noFishingZones": ["Chesapeake Bay Reserve", "Hudson River Protected Area"],
+      "description": "Striped bass is an anadromous fish found along the Atlantic coast of North America. They are highly valued by sport fishermen and are an important commercial species. Conservation efforts have been successful.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, estuaries, rivers",
+      "maxLength": "2 m",
+      "maxWeight": "57 kg"
+    },
+    {
+      "id": "27",
+      "name": "Flounder",
+      "scientificName": "Paralichthys spp.",
+      "status": "Vulnerable",
+      "population": 2200000,
+      "populationTrend": "Decreasing",
+      "countries": ["USA", "Canada", "Mexico", "Brazil", "Argentina", "Uruguay"],
+      "noFishingZones": ["Atlantic Flounder Reserve", "Gulf of Mexico Protected Area"],
+      "description": "Flounder are flatfish found in coastal waters. They are bottom-dwellers with both eyes on one side of their body. They are commercially important but face pressure from fishing and habitat loss.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, estuaries, continental shelf",
+      "maxLength": "95 cm",
+      "maxWeight": "14 kg"
+    },
+    {
+      "id": "28",
+      "name": "Turbot",
+      "scientificName": "Scophthalmus maximus",
+      "status": "Vulnerable",
+      "population": 450000,
+      "populationTrend": "Decreasing",
+      "countries": ["UK", "France", "Spain", "Portugal", "Norway", "Iceland", "Denmark", "Germany"],
+      "noFishingZones": ["North Sea Turbot Reserve", "Baltic Sea Protected Area"],
+      "description": "Turbot is a large flatfish found in the North Atlantic, Baltic Sea, and Mediterranean. They are highly valued for their delicate flavor and are an important commercial species. Overfishing has impacted populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, benthic",
+      "maxLength": "1 m",
+      "maxWeight": "25 kg"
+    },
+    {
+      "id": "29",
+      "name": "Sole",
+      "scientificName": "Solea solea",
+      "status": "Vulnerable",
+      "population": 600000,
+      "populationTrend": "Decreasing",
+      "countries": ["UK", "France", "Spain", "Portugal", "Italy", "Greece", "Turkey", "Morocco"],
+      "noFishingZones": ["North Sea Sole Reserve", "Mediterranean Protected Area"],
+      "description": "Common sole is a flatfish found in the eastern Atlantic and Mediterranean. They are bottom-dwellers and are highly valued commercially. Overfishing and habitat degradation have reduced populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, sandy bottoms",
+      "maxLength": "70 cm",
+      "maxWeight": "3 kg"
+    },
+    {
+      "id": "30",
+      "name": "Plaice",
+      "scientificName": "Pleuronectes platessa",
+      "status": "Vulnerable",
+      "population": 1800000,
+      "populationTrend": "Decreasing",
+      "countries": ["UK", "Norway", "Iceland", "Denmark", "Germany", "Netherlands", "Belgium", "France"],
+      "noFishingZones": ["North Sea Plaice Reserve", "Baltic Sea Protected Area"],
+      "description": "European plaice is a common flatfish found in the North Atlantic and Baltic Sea. They are commercially important and are found in shallow coastal waters. Overfishing has impacted populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, continental shelf",
+      "maxLength": "1 m",
+      "maxWeight": "7 kg"
+    },
+    {
+      "id": "31",
+      "name": "Anchovy",
+      "scientificName": "Engraulis encrasicolus",
+      "status": "Least Concern",
+      "population": 20000000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "Portugal", "France", "Italy", "Greece", "Turkey", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["Mediterranean Anchovy Reserve", "Atlantic Protected Zone"],
+      "description": "European anchovy is a small, schooling fish found in the Mediterranean and eastern Atlantic. They are an important commercial species and play a crucial role in the marine food web as prey for larger fish.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, pelagic",
+      "maxLength": "20 cm",
+      "maxWeight": "0.05 kg"
+    },
+    {
+      "id": "32",
+      "name": "Sardine",
+      "scientificName": "Sardina pilchardus",
+      "status": "Least Concern",
+      "population": 15000000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "Portugal", "France", "Italy", "Greece", "Morocco", "Algeria", "Tunisia"],
+      "noFishingZones": ["Mediterranean Sardine Reserve", "Atlantic Protected Zone"],
+      "description": "European sardine is a small, schooling fish found in the Mediterranean and eastern Atlantic. They are commercially important and are often canned. They form large schools and are prey for many marine predators.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, pelagic",
+      "maxLength": "27 cm",
+      "maxWeight": "0.15 kg"
+    },
+    {
+      "id": "33",
+      "name": "Tuna (Albacore)",
+      "scientificName": "Thunnus alalunga",
+      "status": "Near Threatened",
+      "population": 2800000,
+      "populationTrend": "Stable",
+      "countries": ["Japan", "USA", "Spain", "Italy", "France", "Australia", "New Zealand", "South Africa"],
+      "noFishingZones": ["Pacific Albacore Reserve", "Mediterranean Protected Zone"],
+      "description": "Albacore tuna is a medium-sized tuna found in temperate and tropical waters worldwide. They are known for their white meat and are important commercially. They are fast swimmers and highly migratory.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "1.4 m",
+      "maxWeight": "60 kg"
+    },
+    {
+      "id": "34",
+      "name": "Bigeye Tuna",
+      "scientificName": "Thunnus obesus",
+      "status": "Vulnerable",
+      "population": 1800000,
+      "populationTrend": "Decreasing",
+      "countries": ["Japan", "USA", "Australia", "Indonesia", "Philippines", "Thailand", "Ecuador", "Peru"],
+      "noFishingZones": ["Pacific Bigeye Reserve", "Indian Ocean Protected Zone"],
+      "description": "Bigeye tuna is a large tuna species found in tropical and subtropical waters worldwide. They are commercially important and are known for their large eyes. Overfishing has led to population declines.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Open ocean, pelagic",
+      "maxLength": "2.5 m",
+      "maxWeight": "210 kg"
+    },
+    {
+      "id": "35",
+      "name": "Sea Bream",
+      "scientificName": "Sparus aurata",
+      "status": "Least Concern",
+      "population": 3200000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "Portugal", "France", "Italy", "Greece", "Turkey", "Morocco", "Tunisia", "Algeria", "Lebanon", "Cyprus", "Syria"],
+      "noFishingZones": ["Mediterranean Sea Bream Reserve", "Atlantic Protected Zone"],
+      "description": "Gilt-head sea bream is a popular fish in Mediterranean cuisine. They are found in coastal waters and are important both commercially and in aquaculture. They are known for their distinctive golden stripe.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, rocky areas",
+      "maxLength": "70 cm",
+      "maxWeight": "7 kg"
+    },
+    {
+      "id": "36",
+      "name": "European Seabass",
+      "scientificName": "Dicentrarchus labrax",
+      "status": "Least Concern",
+      "population": 4500000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria", "Portugal"],
+      "noFishingZones": ["Mediterranean Seabass Reserve", "Atlantic Protected Zone"],
+      "description": "European seabass is a popular fish in Mediterranean cuisine. They are found in coastal waters and estuaries, and are highly valued for their delicate flavor and firm white flesh.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, estuaries, lagoons",
+      "maxLength": "1 m",
+      "maxWeight": "12 kg"
+    },
+    {
+      "id": "37",
+      "name": "Red Mullet",
+      "scientificName": "Mullus surmuletus",
+      "status": "Least Concern",
+      "population": 2800000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria", "Portugal"],
+      "noFishingZones": ["Mediterranean Mullet Reserve"],
+      "description": "Red mullet is a highly prized fish in Mediterranean cuisine, known for its distinctive red color and delicate flavor. They are bottom-dwelling fish found in sandy and rocky areas.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, sandy and rocky bottoms",
+      "maxLength": "40 cm",
+      "maxWeight": "1 kg"
+    },
+    {
+      "id": "38",
+      "name": "Mediterranean Grouper",
+      "scientificName": "Epinephelus marginatus",
+      "status": "Endangered",
+      "population": 180000,
+      "populationTrend": "Decreasing",
+      "countries": ["Spain", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["Mediterranean Grouper Reserve", "Corsica Protected Area"],
+      "description": "The Mediterranean grouper is a large fish found in rocky coastal areas. They are slow-growing and long-lived, making them vulnerable to overfishing. They are highly valued in Mediterranean cuisine.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2497/en"
+      ],
+      "habitat": "Rocky coastal areas, caves",
+      "maxLength": "1.5 m",
+      "maxWeight": "60 kg"
+    },
+    {
+      "id": "39",
+      "name": "Mediterranean Sardine",
+      "scientificName": "Sardina pilchardus",
+      "status": "Least Concern",
+      "population": 18000000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "Portugal", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["Mediterranean Sardine Reserve", "Atlantic Protected Zone"],
+      "description": "Mediterranean sardines are small, schooling fish found throughout the Mediterranean and eastern Atlantic. They are an important commercial species and are rich in omega-3 fatty acids.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, pelagic",
+      "maxLength": "27 cm",
+      "maxWeight": "0.15 kg"
+    },
+    {
+      "id": "40",
+      "name": "Dentex",
+      "scientificName": "Dentex dentex",
+      "status": "Least Concern",
+      "population": 2200000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["Mediterranean Dentex Reserve"],
+      "description": "Dentex is a large predatory fish found in the Mediterranean. They are known for their strong teeth and are highly valued in Mediterranean cuisine for their firm, flavorful flesh.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Rocky and sandy bottoms, coastal waters",
+      "maxLength": "1 m",
+      "maxWeight": "14 kg"
+    },
+    {
+      "id": "41",
+      "name": "Pandora",
+      "scientificName": "Pagellus erythrinus",
+      "status": "Least Concern",
+      "population": 3500000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria", "Portugal"],
+      "noFishingZones": ["Mediterranean Pandora Reserve"],
+      "description": "Pandora, also known as common pandora, is a popular fish in Mediterranean cuisine. They are found in coastal waters and are known for their pinkish color and delicate flavor.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, sandy and muddy bottoms",
+      "maxLength": "60 cm",
+      "maxWeight": "3 kg"
+    },
+    {
+      "id": "42",
+      "name": "Striped Red Mullet",
+      "scientificName": "Mullus barbatus",
+      "status": "Least Concern",
+      "population": 2400000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["Mediterranean Mullet Reserve"],
+      "description": "Striped red mullet is a close relative of the red mullet, found throughout the Mediterranean. They are highly prized for their delicate flavor and are often grilled or fried whole.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, sandy bottoms",
+      "maxLength": "30 cm",
+      "maxWeight": "0.5 kg"
+    },
+    {
+      "id": "43",
+      "name": "Bogue",
+      "scientificName": "Boops boops",
+      "status": "Least Concern",
+      "population": 12000000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "Portugal", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["Mediterranean Bogue Reserve"],
+      "description": "Bogue is a common fish in the Mediterranean, found in schools near the coast. They are an important commercial species and are often used in Mediterranean fish stews and soups.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, pelagic",
+      "maxLength": "36 cm",
+      "maxWeight": "0.6 kg"
+    },
+    {
+      "id": "44",
+      "name": "Picarel",
+      "scientificName": "Spicara smaris",
+      "status": "Least Concern",
+      "population": 8000000,
+      "populationTrend": "Stable",
+      "countries": ["Spain", "France", "Italy", "Greece", "Turkey", "Lebanon", "Cyprus", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["Mediterranean Picarel Reserve"],
+      "description": "Picarel is a small fish found throughout the Mediterranean. They form large schools and are commonly used in Mediterranean cuisine, often fried or grilled whole.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Coastal waters, rocky and sandy areas",
+      "maxLength": "20 cm",
+      "maxWeight": "0.2 kg"
+    },
+    {
+      "id": "45",
+      "name": "Common Sole",
+      "scientificName": "Solea solea",
+      "status": "Vulnerable",
+      "population": 600000,
+      "populationTrend": "Decreasing",
+      "countries": ["UK", "France", "Spain", "Portugal", "Italy", "Greece", "Turkey", "Morocco", "Tunisia", "Algeria"],
+      "noFishingZones": ["North Sea Sole Reserve", "Mediterranean Protected Area"],
+      "description": "Common sole is a flatfish found in the eastern Atlantic and Mediterranean. They are bottom-dwellers and are highly valued commercially. Overfishing and habitat degradation have reduced populations.",
+      "sources": [
+        "https://www.iucn.org/",
+        "https://www.fao.org/fishery/species/2218/en"
+      ],
+      "habitat": "Continental shelf, sandy bottoms",
+      "maxLength": "70 cm",
+      "maxWeight": "3 kg"
+    }
+  ]
+}
