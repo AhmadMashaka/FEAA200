@@ -6,7 +6,7 @@ This guide will help you deploy the Fish Species Explorer to GitHub Pages.
 
 - A GitHub account
 - Git installed on your computer
-- The repository: https://github.com/Pennito/FEAA200.git
+- The repository: https://github.com/AhmadMashaka/FEAA200.git
 
 ## 🔧 Setup Steps
 
@@ -22,14 +22,14 @@ git commit -m "Initial commit: Fish Species Explorer with Recipes"
 ### 2. Connect to GitHub Repository
 
 ```bash
-git remote add origin https://github.com/Pennito/FEAA200.git
+git remote add origin https://github.com/AhmadMashaka/FEAA200.git
 git branch -M main
 git push -u origin main
 ```
 
 ### 3. Enable GitHub Pages
 
-1. Go to your repository: https://github.com/Pennito/FEAA200
+1. Go to your repository: https://github.com/AhmadMashaka/FEAA200
 2. Click on **Settings** (top right)
 3. In the left sidebar, click **Pages**
 4. Under **Source**, select **GitHub Actions**
@@ -41,7 +41,7 @@ git push -u origin main
 - Check the **Actions** tab to see the deployment progress
 - Once complete (green checkmark), your site will be live at:
   
-  **🌐 https://pennito.github.io/FEAA200/**
+  **🌐 https://ahmadmashaka.github.io/FEAA200/**
 
 ## 🔄 Making Updates
 
